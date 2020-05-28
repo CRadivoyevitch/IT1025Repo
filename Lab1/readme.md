@@ -12,5 +12,12 @@ On the client-end, communication and the evolution of coding advances is allowed
 ##  Cloud Computing 
  Being able to access a project from different platforms is the prime reason that GitHub is considered cloud-computing. Many platforms work as such, keeping the user's data on their own servers to allow for access anywhere. Examples include G-mail, Twitter, and Youtube.
 
+# Hardware
+Latency is the time it takes to find a data on the hard drive, whereas transfer rates are in regards to the importing and exporting of that data from the hard drive.
+Solid State Drives bypass much of this by having no moving parts, instead operating like RAM where it stores data that is immediately obtainable. SSDs are more expensive than HDDs but are lowering costs as technology progresses.
+
+RAM is the medium between the Hard Drive and CPU's communication. With more RAM, more data can be taken off the Hard Drive at a given time and moved to the CPU without backlog.
+64 and 32 bit referrs to the amount of data bits that is moved in one clock cycle, with 64 being the superior but more demanding choice.
+
 # Conclusion  
 It is reasurring that having correct spelling when writing this was my biggest challenge in the lesson. The history of networking is interesting on the surface and becomes mindblowing the deeper one digs. I'm looking forward to what trains of thought will be engineered as these next 5 weeks reach full force.
