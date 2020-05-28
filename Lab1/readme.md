@@ -19,5 +19,16 @@ Solid State Drives bypass much of this by having no moving parts, instead operat
 RAM is the medium between the Hard Drive and CPU's communication. With more RAM, more data can be taken off the Hard Drive at a given time and moved to the CPU without backlog.
 64 and 32 bit referrs to the amount of data bits that is moved in one clock cycle, with 64 being the superior but more demanding choice.
 
+## ALU and the Control Unit
+When a command is sent to the Control Unit, it is then sent to the Arithmetic Logic Unit where the calculations take place. results are sent back to the Control Unit when needed
+
+## CPU Input and Output
+Input takes information from outside (microphone sounds, keyboard presses, etc.) the CPU and converts it to binary, which the CPU interprets and then sends out as an output (a screen, speaker, machine)
+## Logic Gates and Circuits
+Truth Tables use logic to determine reactions to data, creating a binary output of either a 1 or 0 depending on the gate being used. an AND gate declares that if one input holds true then the output will be 1, whereas the NAND states any (1) input will create an output of 0. Per an article on ElectronicsTutorials.com the NAND gate is powerul in that it is able to create the AND, Or, NOT gates when utilized correctly.
+
+## IEEE - Ethically Aligned Design 
+With great power comes great responsibility, and the internet/computing may be the greatest power humanity has discovered thus far. abiding by a code of ethics is the difference between profiting off of other's hard work or collaborating with them, or creating a device that can harm lives or benefits them.
+
 # Conclusion  
 It is reasurring that having correct spelling when writing this was my biggest challenge in the lesson. The history of networking is interesting on the surface and becomes mindblowing the deeper one digs. I'm looking forward to what trains of thought will be engineered as these next 5 weeks reach full force.
