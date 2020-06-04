@@ -1,5 +1,5 @@
 
-# Data Representation 
+# Data Representation (haven't completed) 
 
 Explain the difference between decimal, binary and hexadecimal numbers 
  
@@ -17,7 +17,6 @@ Closest worksafe color is #9900ff
 When designing colors, it is important to adhere to disadvantages the vision impaired, or colorblind could face. a color like this requires a lighter background, or conversely a lighter foreground when being contrasted as a background.
 
 # Software
-Explain the roles of application, utility and operating system software.  Give an example of each. 
 Application is the software that provides a service or command for the system. Skype or Itunes would be considered applications. 
 Utility software modifies the device drivers for the various parts of a machine are composed of utility software.
 An Operating system provides the skeleton and grounds for applications and utilities to function with the hardware. Ubuntu is an example of this.
