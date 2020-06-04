@@ -36,3 +36,13 @@ While other programs run compiled code from the hard drive, Python has the progr
 ### do programming in Python
 
 # Careers in Computing
+On average, it appears that the industries that utilize less manual labor and more computing potential are in line to accel in need and have better salaries. This is important as they all rely to some degree on statistics and computations, meaning one can "sell pick-axes to the goldminers" and find a stable and substantial profession if they commit to the field.
+
+I have an interest in the data analytics certification offered at Tri-C, due to it's versitality and ability to get me a foot-in-the-door with many industries that are looking to expand their data mining and utilization teams.
+
+## Co-ops / Internships
+If I am to be a viable candidate for a co-op or internship, I will need to prove myself with a resume, portfolio, interview skills, an orientation offered by Tri-C, and a deeper understanding of what I am studying/would like to study.
+
+## Industry Associations / Student Organizations
+Cybersecurity is ever-growing and becoming ever more vital to daily business and protection of our information. I find the out-of-the-box mindsets and critical thinking to best the competition and wrongdoers that many cybersecurity practitioners hone to be a stimulating environment for my own personal growth and understanding of what the state of the digital world is in.
+## Still need to do 3
