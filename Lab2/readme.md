@@ -1,7 +1,7 @@
 
 # Data Representation
 
-Explain the difference between decimal, binary and hexadecimal numbers 
+Explain the difference between decimal, binary and hexadecimal numbers:
  While Decimal is a numeric value such as 47, 250, etc, Binary is composed purely of '0' and '1'. Binary utilizes Base 2, whereas Hexadecimal uses base 16, which means larger numbers can be represented, meaning larger computations are possible.
 
 ## Hexadecimal Color Representation 
@@ -27,20 +27,12 @@ Virtualization allows for an operating system to be run within another operating
 Pseudo-code is the concepts of a coded program prior to the code being written itself. This allows for brainstorming and creative development when planning and tinkering the product.
 While other programs run compiled code from the hard drive, Python has the program ran on the spot, allowing the system to interpret it as it progresses through the lines.
 
-### do programming in Python
-
 # Careers in Computing
 
 On average, it appears that the industries that utilize less manual labor and more computing potential are in line to accel in need and have better salaries. This is important as they all rely to some degree on statistics and computations, meaning one can "sell pick-axes to the goldminers" and find a stable and substantial profession if they commit to the field.
 
-## College Central (DO STILL)
-Traverse to the following site: Tri-c College Central and register for a student account.   
- 
+## College Central
 
-Once registered use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,)  name the file: CollegeCentral and upload to your lab folder. 
- 
-
-Take some time to explore the resource, add the following heading to your lab readme. md file: College Central under Career Exploration and report your findings.
 
 ## Certifications
 I have an interest in the data analytics certification offered at Tri-C, due to it's versitality and ability to get me a foot-in-the-door with many industries that are looking to expand their data mining and utilization teams.
