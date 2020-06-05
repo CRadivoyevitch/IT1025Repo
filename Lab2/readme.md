@@ -1,13 +1,8 @@
 
-# Data Representation (haven't completed) 
+# Data Representation
 
 Explain the difference between decimal, binary and hexadecimal numbers 
- 
-
-Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file) and save to a file named DecimalConversion and upload to your lab folder. 
- 
-
-Convert the binary representation: 10110101 to decimal and save your work to a file named BinaryConversion and upload to the lab folder. 
+ While Decimal is a numeric value such as 47, 250, etc, Binary is composed purely of '0' and '1'. Binary utilizes Base 2, whereas Hexadecimal uses base 16, which means larger numbers can be represented, meaning larger computations are possible.
 
 ## Hexadecimal Color Representation 
 R:67 G:0 B:100
@@ -38,7 +33,14 @@ While other programs run compiled code from the hard drive, Python has the progr
 
 On average, it appears that the industries that utilize less manual labor and more computing potential are in line to accel in need and have better salaries. This is important as they all rely to some degree on statistics and computations, meaning one can "sell pick-axes to the goldminers" and find a stable and substantial profession if they commit to the field.
 
-## College Central
+## College Central (DO STILL)
+Traverse to the following site: Tri-c College Central and register for a student account.   
+ 
+
+Once registered use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,)  name the file: CollegeCentral and upload to your lab folder. 
+ 
+
+Take some time to explore the resource, add the following heading to your lab readme. md file: College Central under Career Exploration and report your findings.
 
 ## Certifications
 I have an interest in the data analytics certification offered at Tri-C, due to it's versitality and ability to get me a foot-in-the-door with many industries that are looking to expand their data mining and utilization teams.
