@@ -16,3 +16,37 @@ Five layers were required for this, and the image is 893 KB in size. It can be o
 
 # LucidChart
 The platform is easy to use and a great way to visually represent a program one is trying to portray. I will be looking forward to using it in the future.
+
+# Introduction to Networking
+
+## Data Transmission
+
+Definitions to match:  
+Protocol: Set of rules to allow devices to communicate 
+Packet: Unit of data 
+IP Address: Unique identifying number 
+Packet-Switching: Technology that allows packets of data to be routed based on destination address 
+DNS: Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+
+All terms are used when performing activity on the internet.
+
+## Networking Hardware
+
+Explain the benefit of a switch over a hub. 
+While both receive data, a Hub receives data and sends it to all outputs, whereas a switch can send the data to a specific port, thus saving bandwidth.
+Explain the benefit of a router over hubs and switches. 
+A router reads IP addresses, allowing for activity outside the local network (hubs and switches are built for local networks)
+## Network Topologies
+
+Explain: Single point of failure and the topologies that experience this issue. 
+This is when a failure of a central hub fails on a wired topology, such as a Star Topology, the entire system will fail.
+
+Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why?
+Wirelss Mesh topology allows for largescale communication and less hassle of wires. However it creates an opportunity for unwanted devices to have access to the network. If a business is handling sensitive information, a wired mesh is the wiser option.
+
+## Network Design
+What I made was a simple Wireless Mesh, where devices are connected to the WAP allowing for connectivity to one another.
+
+## NSA/CCS
+These agencies are focused towards network and data security, and monitor activity to catch anything suspicious. They also work to create and decrypt codes.
+
