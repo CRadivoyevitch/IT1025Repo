@@ -48,5 +48,5 @@ Wirelss Mesh topology allows for largescale communication and less hassle of wir
 What I made was a simple Wireless Mesh, where devices are connected to the WAP allowing for connectivity to one another.
 
 ## NSA/CCS
-These agencies are focused towards network and data security, and monitor activity to catch anything suspicious. They also work to create and decrypt codes.
+These agencies are focused towards network and data security in America, and monitor activity to catch anything suspicious. They also work to create and decrypt codes.
 
