@@ -13,3 +13,6 @@ Gifs provide frame by frame changes in pictures, giving fluidity to the image as
 
 ## File Properties
 Five layers were required for this, and the image is 893 KB in size. It can be opened with Windows Paint, Photo, and paint 3D.Opening with Windows Paint is wiser, as the logo should be ready to be edited at any time.
+
+# LucidChart
+The platform is easy to use and a great way to visually represent a program one is trying to portray. I will be looking forward to using it in the future.
