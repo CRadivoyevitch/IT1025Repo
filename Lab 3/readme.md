@@ -1,4 +1,8 @@
 
+# Python IDLE
+Explain the difference between the shell and file editor in the IDLE
+
+## Code Examples
 
 # Graphics
 
