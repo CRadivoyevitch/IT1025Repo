@@ -1,7 +1,7 @@
 
 # Python IDLE
 Explain the difference between the shell and file editor in the IDLE
-
+The shell provides immediate reaction to a coded action, whereas the file editor allows for work on fully programmed codes.
 ## Code Examples
 
 # Graphics
