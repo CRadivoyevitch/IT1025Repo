@@ -4,6 +4,18 @@ Explain the difference between the shell and file editor in the IDLE
 The shell provides immediate reaction to a coded action, whereas the file editor allows for work on fully programmed codes.
 ## Code Examples
 
+A variable is a phrase or unit that equates to something else, be it a number or entire code itself. This allows for ease of writing the code especially when long. Spam, bacon and eggs is used as generic variables. It is an easter egg for a Monty Python sketch.
+MyAge=44. MyAge is the variable
+An assignment statement is the code with the variable, equals sign, and the code that the variable will represent
+MyAge=44 is the entire assignment statement
+A function is a foundation of code that allows for the basis of programming in the language.
+print() and input() are examples
+
+the three data types are integers, floating-point numbers, and strings.
+integers: 453666
+Floating-point numbers: 3.445
+string: 'My name is'
+
 # Graphics
 
 ## Raster Vs. Vector Graphics
