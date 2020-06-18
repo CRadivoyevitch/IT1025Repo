@@ -54,27 +54,30 @@ the Internet Corporation for Assigned Names and Numbers is a caretaker for the d
 ## TCP/IP
 
 What is the responsibility of TCP/IP? 
- 
+The TCP/IP makes sure that methods follow protocol, allowing for efficieny and a more unified global internet ( or more restrictive one depending on where you are based)
 
 Explain how the client-server model applies to TCP/IP. 
+ The IP address contacts the computer which then creates an extension to its next point. in TCP/IP there is the same idea once it connects to the user's IP, where it can then traverse a larger playing field than the local network. 
+
  
-
-Continue your exploration of TCP/IP by reading: The TCP/IP Model and Protocol Suite Explained. Continue under the TCP/IP heading in your lab readme.md file and respond to the following: 
-
 Review the section of the article aligning the post office with protocol stacks.  Why are layers important to changing technology? 
+Layers can be changed out/altered without heavily impacting other layers, or sections of the process.
+
 
 What types of applications run on the "application" layer? 
-
+items such as HTTP, SMTP, POP3.
 
 ## Internet Security
 
 What is HTTP and how does it support the client-server model? 
- 
+HTTP allows for visualization of web pages. This information goes from the user's device (client) into the public internet (server).
 
 Explain the protocols that secure HTTP uses to protect data. 
-
+Secure HTTP puts encryption on the data.
 
 ##  Securing Your Web Browser
 Why should you secure your browser? 
+The internet is essentially the wild-west all over again. With all the freedom and information available, it is not difficult for scammers and hackers to trick and manipulate a user into giving sensitive information.
 
 Explain one of the risks described in the article.
+Cookies store data to your system regaring websites visited and are taken away after a specific event or time expiration. They are risky as they allow the website to also gain access to who exactly is accessing their site. Some may consider this an evasion of privacy.
