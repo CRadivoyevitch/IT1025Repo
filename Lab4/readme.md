@@ -95,12 +95,12 @@ The Web of Devices is very important as the reality of our world is that more th
 
 # Components of a URL 
  
-scheme:			 https
-domain:			www.amazon.com
-top level domain:	 .edu,
-default page:		result of search
-parameters: 		no file path provided
-anchor:			specific location on a page
+scheme:			 https  
+  domain:			www.amazon.com
+  top level domain:	 .edu,
+  default page:		result of search
+  parameters: 		no file path provided
+  anchor:			specific location on a page
 
 #  File Compression
 Explain the purpose and use of file compression. 
