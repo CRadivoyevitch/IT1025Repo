@@ -117,4 +117,8 @@ Traverse to your svg graphic file and right click on the file.  Select propertie
 
 Right click on your IT1025YourName folder and compress the file.  Rename the file IT1025WebSite and upload it to your lab folder. 
  
+ 
+ # Conclusion
+ 
+Having taken a course in HTML prior, the objectives presented were not particularly challenging but did offer a gentle refresher. Seeing the webpage change for better or worse with each reload is fun, like building art from legos. You can experiment without worrying about everything falling apart forever. Understanding the securities and architecture of the internet continues to show how little we perceive on the surface level of the technology's intricacies.
 
