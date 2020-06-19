@@ -84,6 +84,12 @@ Cookies store data to your system regaring websites visited and are taken away a
 
 # Internet Programming
 
+## HTML5 and CSS
+HTML5 is possibly the easiest modern coding language to learn, but incredibly effective when one is manifesting their agenda and sending it out to the world. CSS provides a nice pizazz to the page, helping the viewer direct their gaze to specific aspects and promote an aesthetic that prnounces the page different from others. I chose to take a videographer that I've recently become interested in and provide examples of his work. The paragraph is minimal as art is generally best experienced with senses other than text.
+
+## HTML and XML
+XML carries data whereas HTML displays data.
+
 ## World Wide Web Consortium
 
 Who was Tim Berners-Lee and why did he create the W3C? 
