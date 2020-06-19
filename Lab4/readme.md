@@ -81,3 +81,34 @@ The internet is essentially the wild-west all over again. With all the freedom a
 
 Explain one of the risks described in the article.
 Cookies store data to your system regaring websites visited and are taken away after a specific event or time expiration. They are risky as they allow the website to also gain access to who exactly is accessing their site. Some may consider this an evasion of privacy.
+
+# Internet Programming
+
+## World Wide Web Consortium
+
+Who was Tim Berners-Lee and why did he create the W3C? 
+Sir Tim Berners-Lee created the World Wide Web. W3C creates a set of standards to the WWW, which helps keeps things efficient on a global platform.
+Pick a "standard" of your choice and explain why it is important.
+The Web of Devices is very important as the reality of our world is that more things are becoming digitized and there is more capability/longevity to technology when it can connect to the internet in some way.
+
+
+
+# Components of a URL 
+ 
+scheme:			 https
+domain:			www.amazon.com
+top level domain:	 .edu,
+default page:		result of search
+parameters: 		no file path provided
+anchor:			specific location on a page
+
+#  File Compression
+Explain the purpose and use of file compression. 
+ Compressing a file allows for large amounts of data to be sent and stored in a way that acts like a single file. This makes it easier to download as the file is of less data size and of less quantity. 
+
+Traverse to your svg graphic file and right click on the file.  Select properties and note the file size.  Right-click on the file again and select "send to" compressed file (in Windows).  Right-click on the compressed file and select properties to again note the size.  Explain the difference in file size for a svg file vs. what you might experience if the file were a jpg file and why. 
+ 
+
+Right click on your IT1025YourName folder and compress the file.  Rename the file IT1025WebSite and upload it to your lab folder. 
+ 
+
