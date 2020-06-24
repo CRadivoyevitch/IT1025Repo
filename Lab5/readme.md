@@ -12,18 +12,18 @@ What is a class vs. an object and what does it mean to "instantiate an object fr
  ## Create Shark Class thing
  
  # Unified Modeling Language (UML)
- 
- Define OMG and describe the purpose of UML 
- UML is designed to make visual system for models that can be understood no matter the scenario.
+
+Define OMG and describe the purpose of UML 
+ the Object Management Group is an open membership standards consortium to develop enterprise standards. 
+UML provides the engineers and developers of the computer world with tools to design analyze and model their work. It also helps with vizualization.
 
 Reflecting back to your shark program, match each of the following terms: 
  
-object, class, abstraction, encapsulation and inheritance  
- 
-to: swim(self), shark, a specific type of shark, definition of a shark, Sammy 
- 
-and explain why you matched the terms as you did (under the Unified Modeling Language (UML)heading)
-## Do number 2 also
+-object:Sammy (Was an object in the example)-
+-class:shark (This is the Shark Class)-
+-abstraction:definition of a shark (explains it's behavior)-
+-encapsulation: swim(self) (takes the code and makes it compact)-
+-inheritance: a specific type of shark (new class is made)-
 
 
 # Data, Information and Knowledge 
