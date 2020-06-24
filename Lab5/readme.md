@@ -51,7 +51,6 @@ Knowledge is the relationships among acts or concepts relevant to a specific are
 
 ## Big Data
  
-
 Briefly describe the four "Vs" of big data 
 Volume: The amount of data.
 Velocity: how fresh the data is.
@@ -61,5 +60,23 @@ Veracity: Trustworthiness of the data.
 What types of technology have driven the increased need for big data?
 Social Media, Facial Recognition, Text to Speech, AI for example.
 
+#  Structured Query Language 
+
+
+Explain RDBMS and how it relates to SQL and the purpose of SQL:
+
+ Relational Database Management System is the basis for all modern database systems, Standard Query Language (SQL) included.
+SQL is used for work within databases.
+
+Pick two related tables from the diagram above and explain the relationship between them including which is the primary key, 
+foreign key and the meaning of the relationship between the tables:
+Table 1-Customers
+The primary key is the customer ID as that makes each row of the table the most unique.
+Table 2-Suppliers
+The primary key is the Supplier ID as it keeps the list most unique.
+The Foreign Key would be the Country or City (they share information on geographic residence), which would link which supplier is more efficient for the customer.
+
+Explain how SQL injections are a security threat and what can be done to reduce the issue.
+As SQL is standard, it is very simple to hack into and retreive sensitive information. Adding @ signs to make parameters helps combat this.
  
  
