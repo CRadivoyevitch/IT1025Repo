@@ -79,4 +79,44 @@ The Foreign Key would be the Country or City (they share information on geograph
 Explain how SQL injections are a security threat and what can be done to reduce the issue.
 As SQL is standard, it is very simple to hack into and retreive sensitive information. Adding @ signs to make parameters helps combat this.
  
- 
+
+# Ethical and Legal Implications 
+
+
+## Code of Ethics
+
+Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline. 
+ A code of ethics keeps order and morales to an environment. Computing is like the wild west; there is still much grey area on as to what is legal or not. 
+Having a code for the computing discipline keeps likened minds, and sets a standard for what direction users should use their talents.
+
+Explain the difference between a code of ethics and AUP (acceptable use policies.) 
+ AUPs are for private services, like Starbucks WiFi.
+
+Pick a site of your choice and read the AUP.  Select a policy of interest and report your findings (include a link to the site in your report.) 
+ https://www.runescape.com/game-guide/rules
+ This is to a video game 'RuneScape'. One of the policies is a lack of third-party software. I find this interesting as they may cause the game to be
+easily exploited, but also allow for a refreshing experience as one can plug in and out of their different software.
+
+## Intellectual Property 
+
+What is the purpose and importance of the WIPO? 
+ The WIPO keeps up on the regulations and policies of Intellectual Property. With different laws for different areas
+it is much easier to have a global organization keeping ordeals in check.
+
+Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created. 
+ A copyright in most cases is obtained as soon as the artist creates their work. In Registering it, the copyright is now documented and will hold up better in court, as well as 
+Provide others the knowledge that that idea is taken. Copywriting the svg image means the true original has been copywritten, which again helps for legal
+issues as there is more proof for your case.
+
+If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property. 
+Trademarks will decide on what types of goods or services the copyright can be used on. It is needed if the copyright is to be used without being stolen.
+
+## Information Collection
+Explain how COPPA, FERPA, and HIPPA restrict the collection of information on the internet.
+HIPPA-Health Insurance Portability and Accountability Act gives parent's rights to student information, and he information school health services can share.
+COPPA- Children's Online Privacy Protection Act prevents collection of online data from persons under 13 years of age
+FERPA- Family Educational Rights and Privacy Act. Prevents disclousure of infformation on grades or behaviour to anyone not the student or parent.
+
+These are in place to keep our minors safe.
+
+
