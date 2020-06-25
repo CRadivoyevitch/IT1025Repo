@@ -9,7 +9,6 @@ What is the purpose of a constructor?
 What is a class vs. an object and what does it mean to "instantiate an object from a class?" 
  A class is a blueprint for a variable, while the object is the instance of the class. The class is usually at the start of the code whereas after it's defined it is brought up as an object later in the code. Instantiateing an object from a class means to make it an instance, to manifest it from the blueprint held at the beginning.
  
- ## Create Shark Class thing
  
  # Unified Modeling Language (UML)
 
@@ -119,4 +118,6 @@ FERPA- Family Educational Rights and Privacy Act. Prevents disclousure of inffor
 
 These are in place to keep our minors safe.
 
+# Conclusion
+The content discussed certainly gives a great front of resources that one can use to propel themselves into whatever field of computing they are interested in, and help others perhaps discover what parts of computing they actually hold an interest to. On top of this understanding a basic skeletal of how the network is standardized really aids in creating the proper mindset for future classes.
 
